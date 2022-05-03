@@ -1,8 +1,9 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 
-<%@ page import="java.sql.*" %> 
-<%@ page import="jspinterface.MyConnection.*" %>
+<%@ page import="java.sql.DriverManager" %> 
+<%@ page import="java.sql.Connection" %> 
+<%@ page import="java.sql.PreparedStatement" %> 
 
 <html>
     <head>
@@ -11,6 +12,10 @@
     </head>
     <body>
         <%
+            Class.forName("com.mysql.jdbc.Driver");
+            // Connect to the sample database
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/db_312", "angold", "8616jw386");
+
             // Create and setup PreparedStatement object for searching all products
             PreparedStatement prepared = connection.statement("insert into student (id, name, address) values(?,?,?)");
 

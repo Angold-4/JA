@@ -1,0 +1,68 @@
+<resources>
+
+    <string-array name="region">
+        <item>所有地區</item>
+        <item>九龍城區</item>
+        <item>沙田區</item>
+        <item>灣仔區</item>
+        <item>屯門區</item>
+        <item>元朗區</item>
+        <item>離島區</item>
+        <item>葵青區</item>
+        <item>北區</item>
+        <item>中西區</item>
+        <item>大埔區</item>
+        <item>西貢區</item>
+        <item>荃灣區</item>
+        <item>觀塘區</item>
+        <item>深水埗區</item>
+        <item>東區</item>
+        <item>黃大仙區</item>
+        <item>油尖旺區</item>
+        <item>南區</item>
+    </string-array>
+
+    <string-array name="Category">
+        <item>所有學校</item>
+        <item>資助小學</item>
+        <item>資助中學</item>
+        <item>資助特殊學校</item>
+        <item>按位津貼中學</item>
+        <item>直接資助計劃小學</item>
+        <item>直接資助計劃中學</item>
+        <item>英基學校協會(小學)</item>
+        <item>英基學校協會(中學)</item>
+        <item>官立小學</item>
+        <item>官立中學</item>
+        <item>國際學校(小學)</item>
+        <item>國際學校(中學)</item>
+        <item>幼稚園暨幼兒中心</item>
+        <item>幼稚園</item>
+        <item>私立小學</item>
+        <item>私立中學(日校 / 夜校)</item>
+    </string-array>
+
+    <string-array name="pn">
+        <item>默認</item>
+        <item>正序</item>
+        <item>倒序</item>
+    </string-array>
+
+
+    <string name="app_name">學校信息查詢</string>
+    <string name="SchoolNo">SchoolNo:</string>
+    <string name="SchoolCategory">學校類別:</string>
+    <string name="SchoolAddress">學校地址:</string>
+    <string name="SchoolGender"> 就讀學生性別:</string>
+    <string name="SchoolDistrict"> 分區: </string>
+    <string name="SchoolSession">學校授課時間:</string>
+    <string name="SchoolFinanceType">資助種類:</string>
+    <string name="SchoolTelephone">聯絡電話:</string>
+    <string name="SchoolFaxNumber">:傳真號碼</string>
+    <string name="SchoolWebsite">學校網頁:</string>
+    <string name="SchoolReligion">宗教:</string>
+</resources>
+
+
+
+

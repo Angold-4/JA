@@ -1,0 +1,70 @@
+<resources>
+
+    <string-array name="region">
+        <item>ALL REGIONS</item>
+        <item>KOWLOON CITY</item>
+        <item>SHA TIN</item>
+        <item>WAN CHAI</item>
+        <item>TUEN MUN</item>
+        <item>YUEN LONG</item>
+        <item>ISLANDS</item>
+        <item>KWAI TSING</item>
+        <item>NORTH</item>
+        <item>CENTRAL AND WESTERN</item>
+        <item>TAI PO</item>
+        <item>SAI KUNG</item>
+        <item>TSUEN WAN</item>
+        <item>KWUN TONG</item>
+        <item>SHAM SHUI PO</item>
+        <item>EASTERN</item>
+        <item>WONG TAI SIN</item>
+        <item> MYAU TSIMONG</item>
+        <item>SOUTHERN</item>
+    </string-array>
+
+    <string-array name="Category">
+        <item>ALL SCHOOLS</item>
+        <item>Aided Primary Schools</item>
+        <item>Aided Secondary Schools</item>
+        <item>Aided Special Schools</item>
+        <item>Caput Secondary Schools</item>
+        <item>Direct Subsidy Scheme Primary Schools</item>
+        <item>Direct Subsidy Scheme Secondary Schools</item>
+        <item>English Schools Foundation (Primary)</item>
+        <item>English Schools Foundation (Secondary)</item>
+        <item>Government Primary Schools</item>
+        <item>Government Secondary Schools</item>
+        <item>International Schools (Primary)</item>
+        <item>International Schools (Secondary)</item>
+        <item>Kindergarten-cum-child Care Centres</item>
+        <item>Kindergartens</item>
+        <item>Private Primary Schools</item>
+        <item>Private Secondary Schools (Day/Evening)</item>
+    </string-array>
+
+    <string-array name="pn">
+        <item>Default</item>
+        <item>POSITIVE ORDER</item>
+        <item>REVERSE ORDER</item>
+    </string-array>
+
+    <string name="app_name">School Information Query</string>
+    <string name="SchoolNo">SchoolNo:</string>
+    <string name="SchoolCategory">School Category:</string>
+    <string name="SchoolAddress">School Address:</string>
+    <string name="SchoolGender">School Gender:</string>
+    <string name="SchoolDistrict">School District:</string>
+    <string name="SchoolSession">School Session:</string>
+    <string name="SchoolFinanceType">Finance Type</string>
+    <string name="SchoolTelephone">Telephone:</string>
+    <string name="SchoolFaxNumber">Fax Number:</string>
+    <string name="SchoolWebsite">Website:</string>
+    <string name="SchoolReligion">Religion:</string>
+
+</resources>
+
+
+
+
+
+
